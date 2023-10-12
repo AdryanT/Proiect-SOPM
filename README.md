@@ -1,3 +1,3 @@
 # Proiect-SOPM
-Site+Aplicatie To-Do List
-To-Do List application made in Reach Native 
+
+To-Do List application made in Reach Native. And a Site with all my teammates. 
